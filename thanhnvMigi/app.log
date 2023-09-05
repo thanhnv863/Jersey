@@ -1,0 +1,33 @@
+2023-08-28 10:25:16 INFO  NhanVienResponsitory:23 - Query nhanVien
+2023-08-28 10:25:29 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:12
+2023-08-28 10:25:29 INFO  NhanVienServiceImpl:42 - API - Method: GET, StatusCode: 200,Status: OK, URI: /thanhnvMigi/migi/get-one/12
+2023-08-28 10:25:34 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:10000
+2023-08-28 10:25:34 INFO  NhanVienServiceImpl:37 - API - Method: GET, StatusCode: 404,Status: Not Found, URI: /thanhnvMigi/migi/get-one/10000
+2023-08-28 10:26:38 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:23
+2023-08-28 10:26:38 INFO  NhanVienResponsitory:66 - Thêm nhân viên mới: 
+2023-08-28 10:26:42 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:23
+2023-08-28 10:27:18 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:14
+2023-08-28 10:27:18 INFO  NhanVienResponsitory:86 - Cập nhật nhân viên!
+2023-08-28 14:18:04 INFO  NhanVienResponsitory:23 - Query nhanVien
+2023-08-28 14:19:16 INFO  NhanVienResponsitory:23 - Query nhanVien
+2023-08-28 14:20:22 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:23
+2023-08-28 14:20:27 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:25
+2023-08-28 14:20:27 INFO  NhanVienResponsitory:66 - Thêm nhân viên mới: 
+2023-08-28 14:20:50 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:25
+2023-08-28 14:20:50 INFO  NhanVienResponsitory:86 - Cập nhật nhân viên!
+2023-08-28 14:21:03 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:25
+2023-08-28 14:21:03 INFO  NhanVienServiceImpl:99 - API - Method: DELETE, StatusCode: 200,Status: OK, URI: /thanhnvMigi/migi/delete/25
+2023-08-28 14:21:03 INFO  NhanVienResponsitory:105 - Xóa 1 nhân viên:25
+2023-08-28 14:21:07 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:25
+2023-08-28 14:21:07 INFO  NhanVienServiceImpl:93 - API - Method: DELETE, StatusCode: 404,Status: Not Found, URI: /thanhnvMigi/migi/delete/25
+2023-08-28 14:21:14 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:10000
+2023-08-28 14:21:14 INFO  NhanVienServiceImpl:37 - API - Method: GET, StatusCode: 404,Status: Not Found, URI: /thanhnvMigi/migi/get-one/10000
+2023-08-28 14:21:19 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:15
+2023-08-28 14:21:19 INFO  NhanVienServiceImpl:37 - API - Method: GET, StatusCode: 404,Status: Not Found, URI: /thanhnvMigi/migi/get-one/15
+2023-08-28 14:21:22 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:23
+2023-08-28 14:21:22 INFO  NhanVienServiceImpl:42 - API - Method: GET, StatusCode: 200,Status: OK, URI: /thanhnvMigi/migi/get-one/23
+2023-08-28 14:30:28 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:25
+2023-08-28 14:30:37 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:24
+2023-08-28 14:30:42 INFO  NhanVienResponsitory:23 - Query nhanVien
+2023-08-28 14:30:48 INFO  NhanVienResponsitory:48 - Bạn đang truy vấn đến 1 đối tượng nhân viên:11
+2023-08-28 14:30:48 INFO  NhanVienResponsitory:86 - Cập nhật nhân viên!
